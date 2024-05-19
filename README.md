@@ -24,19 +24,7 @@
 <body>
 
 <h1 id="message">Your Magma Message Here</h1>
-<input type="text" id="inputMessage" placeholder="Dearest Mom,
-
-I know I don't say it enough, but I want you to know how much I love and appreciate you. You've always been my biggest supporter, my strongest advocate, and the most loving presence in my life.
-
-I'm so grateful for everything you've done for me, from the countless sacrifices you made to ensure I had a happy childhood, to the unwavering love and guidance you've given me as I've grown up. Your wisdom, kindness, and strength have shaped me into the person I am today.
-
-I cherish all the memories we've made together, the laughter we've shared, and the lessons you've taught me. You've always been there for me, through thick and thin, and I'm so lucky to have you as my mom.
-
-Thank you for being my rock, my confidante, and my best friend. I love you more than words can say.
-
-With all my love,
-
-[Zack]
+<input type="text" id="inputMessage" placeholder="I Love You both
 
 pen_spark
 
